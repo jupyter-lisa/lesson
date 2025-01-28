@@ -1,1 +1,13 @@
 Third note after revert
+
+1/28(TUE)
+
+Sample.txt "Initial note" @main
+
+
+Sample2.txt "Second note" @linear/a/function
+Revertして、Revertの履歴が残って、そのままの状態
+
+
+Sample3.txt "Third note" @linear/b/successhandler
+このfileを作成して、一回Commitしたのち、このまとめを記載して、Commit済み。
