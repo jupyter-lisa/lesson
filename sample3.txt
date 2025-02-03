@@ -10,5 +10,6 @@ Sample2.txt "Second note" @linear/a/function
 
 
 Sample3.txt "Third note" @linear/b/successhandler
+
 このfileを作成して、一回Commitしたのち、このまとめを記載して、Commit済み。
 確かめる。
